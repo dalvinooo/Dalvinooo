@@ -39,5 +39,3 @@ My name is Dalvin,18 yo .Stupid people From Indonesia 🇲🇨
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dalvino&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Dalvino&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
