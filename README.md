@@ -28,14 +28,4 @@ My name is Dalvin,18 yo .Stupid people From Indonesia 🇲🇨
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=blue)
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=mrismanaziz&margin-w=5&margin-h=5)
-
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-## Stats
 
