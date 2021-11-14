@@ -3,8 +3,7 @@
 ![Dalvin](https://telegra.ph/file/e8d3016cea445f03b6669.jpg)
 
 ## Info
-
-real name is Dalvin,18 yo .Stupid people From Indonesia 🇲🇨
+My name is Dalvin,18 yo .Stupid people From Indonesia 🇲🇨
 
 -  I'm Stupid people who can't learn how bot systems work
 -  I'm currently Sleep.
