@@ -1,18 +1,19 @@
-## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy Project
+## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> my name Dalvino•∆
 
-![Sena](https://telegra.ph/file/d8f101048a435a883d057.jpg)
+![Dalvin](https://telegra.ph/file/e8d3016cea445f03b6669.jpg)
 
 ## Info
 
-Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
+Real name is Dalvin, 18 y.o. jenius people From Indonesia 🇲🇨
 
--  I'm currently working on a Move on projects.
+-  I'm Stupid people who can't learn how bot systems work
 -  I'm currently Sleep.
+-  I'm a lazy person, and shy and reluctant to ask
 
 ## Where to find me
 
-[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/acxken._)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxskfi)
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sayap_pengaggum)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dalvinnya)
 
 
 ## Languages
@@ -30,5 +31,5 @@ Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=KennedyProject&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![stats](https://github-readme-stats.vercel.app/api?username=Dalvino&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dalvino&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
