@@ -4,7 +4,7 @@
 
 ## Info
 
-Real name is Dalvin, 18 y.o. jenius people From Indonesia 🇲🇨
+real name is Dalvin, 18 y.o. Stupid people From Indonesia 🇲🇨
 
 -  I'm Stupid people who can't learn how bot systems work
 -  I'm currently Sleep.
